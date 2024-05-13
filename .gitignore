@@ -1,0 +1,7 @@
+express-backend/node_modules
+express-backend/dist
+express-backend/package-lock.json
+
+worker/node_modules
+worker/dist
+worker/package-lock.json
